@@ -104,7 +104,7 @@ def trip_cost(city,days,nights):
 # trip_cost('Charlotte',7,7)
 
 # Exercise 6
-# 3 ile bölünebilme
+# %3
 def cube(number):
     result = number*number*number
     return result
